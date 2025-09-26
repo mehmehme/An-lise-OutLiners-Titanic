@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/0*CTJNRzvl8UDyyJ9V" width="500"/>
+  <img src="https://i.gifer.com/VK11.gif" width="500"/>
 </p>
 
 ---
