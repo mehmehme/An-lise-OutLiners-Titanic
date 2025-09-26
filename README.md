@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/0*CTJNRzvl8UDyyJ9V" alt="Titanic GIF" width="500"/>
+  <img src="https://miro.medium.com/0*CTJNRzvl8UDyyJ9V" width="500"/>
 </p>
 
 ---
