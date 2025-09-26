@@ -38,16 +38,19 @@ Este projeto utiliza a base de dados do Titanic para explorar e limpar dados, al
 1. Clone este repositório:
 ```bash
 git clone https://github.com/seu-usuario/projeto-titanic.git
+```
 Instale as dependências:
 
-bash
 Copiar código
+```bash
 pip install pandas scikit-learn matplotlib
+```
 Rode o script principal:
 
-bash
-Copiar código
+```bash
 python main.py
+```
+
 📈 Resultado
 Após executar, o script identifica os passageiros com dados fora do padrão e exibe gráficos destacando os outliers.
 
